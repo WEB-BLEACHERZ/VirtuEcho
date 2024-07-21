@@ -69,5 +69,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Meena Ganeshsankar - [LinkedIn](https://www.linkedin.com/in/yourprofile) - meenaganeshsankar@gmail.com
 
-Project Link: [https://github.com/yourusername/virtuecho](https://github.com/yourusername/virtuecho)
+Project Link: [https://github.com/WEB-BLEACHERZ/VirtuEcho]([https://github.com/yourusername/virtuecho](https://github.com/WEB-BLEACHERZ/VirtuEcho))
 
