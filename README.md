@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/virtuecho.git
+   gh repo clone WEB-BLEACHERZ/VirtuEcho
    ```
 2. Install the required packages:
    ```sh
