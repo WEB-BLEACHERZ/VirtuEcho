@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Meena Ganeshsankar - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/meena-ganeshsankar/)) - meenaganeshsankar@gmail.com
+Meena Ganeshsankar - [LinkedIn]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/meena-ganeshsankar/)](https://www.linkedin.com/in/meena-ganeshsankar/)) - https://www.linkedin.com/in/meena-ganeshsankar/
 
-Project Link: [https://github.com/WEB-BLEACHERZ/VirtuEcho]([https://github.com/yourusername/virtuecho](https://github.com/WEB-BLEACHERZ/VirtuEcho))
+Project Link: [https://github.com/WEB-BLEACHERZ/VirtuEcho]([[https://github.com/yourusername/virtuecho](https://www.linkedin.com/in/meena-ganeshsankar/)](https://github.com/WEB-BLEACHERZ/VirtuEcho))
 
